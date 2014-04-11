@@ -1,3 +1,8 @@
 name: playground_dart_webgl
-description: Playing around with Dart and WebGL
-
+description: A sample dartemis application
+dependencies:
+  browser: any
+  dartemis_toolbox: any
+  gamedev_helpers:
+    git: https://github.com/denniskaselow/gamedev_helpers
+#    path: ../gamedev_helpers
