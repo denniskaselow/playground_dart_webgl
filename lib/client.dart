@@ -1,7 +1,7 @@
 library client;
 
-import 'dart:html';
-export 'dart:html';
+import 'dart:html' hide Player;
+export 'dart:html' hide Player;
 import 'dart:web_gl';
 import 'dart:typed_data';
 
